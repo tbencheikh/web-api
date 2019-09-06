@@ -19,8 +19,8 @@
 }
 
 .help-page .warning-message-container {
-    margin-top: 20px;
-    padding: 0 10px;
+    margin-top: 20;
+    padding: 0 10;
     color: #525252;
     background: #EFDCA9; 
     border: 1px solid #CCCCCC;
@@ -30,7 +30,7 @@
     width: 100%;
     border-collapse: collapse;
     text-align: left;
-    margin: 0px 0px 20px 0px;
+    margin: 0 0 20 0;
     border-top: 1px solid #D4D4D4;
 }
 
@@ -43,14 +43,14 @@
 
 .help-page-table td {
     border-bottom: 1px solid #D4D4D4;
-    padding: 10px 8px 10px 8px;
+    padding: 10 8px 10 8px;
     vertical-align: top;
 }
 
 .help-page-table pre,
 .help-page-table p {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     font-family: inherit;
     font-size: 100%;
 }
@@ -70,16 +70,16 @@
     padding: 8px 15px;
     border-bottom: none;
     display: inline-block;
-    margin: 10px 0px 0px 0px;
+    margin: 10 0 0 0;
 }
 
 .help-page .sample-content {
     display: block;
     border-width: 0;
-    padding: 15px 20px;
+    padding: 15px 20;
     background: #FFFFFF;
     border: 2px solid #D4D4D4;
-    margin: 0px 0px 10px 0px;
+    margin: 0 0 10 0;
 }
 
 .help-page .api-name {
@@ -119,7 +119,7 @@
 
 .help-page h3,
 .help-page .h3 {
-    font-size: 20px;
+    font-size: 20;
 }
 
 #body.help-page {
